@@ -233,7 +233,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"micetower_ug.json#s32740"
+                 "value":"micetower_ug3.json#s32740"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -251,7 +251,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"micetower_ug.json#s33240"
+                 "value":"micetower_ug3.json#s33240"
                 }],
          "type":"tilelayer",
          "visible":true,
