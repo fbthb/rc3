@@ -365,7 +365,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"micetower_ug.json#e13729"
+                 "value":"micetower_ug.json#s13729"
                 }],
          "type":"tilelayer",
          "visible":true,
