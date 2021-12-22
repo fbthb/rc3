@@ -123,7 +123,7 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"micetower_eg.json#start_ug"
                 }],
@@ -141,7 +141,7 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"micetower_ug2.json#s23540"
                 }],
@@ -159,7 +159,7 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"micetower_ug2.json#s23605"
                 }],
@@ -174,7 +174,7 @@
          "height":42,
          "id":65,
          "name":"s13729",
-         "opacity":0.81,
+         "opacity":0,
          "properties":[
                 {
                  "name":"startLayer",
@@ -213,7 +213,7 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"micetower_ug2.json#s20834"
                 }],
@@ -231,7 +231,7 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"micetower_ug2.json#s24029"
                 }],
@@ -285,7 +285,7 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"micetower_ug2.json#s21238"
                 }],
@@ -397,15 +397,6 @@
                  "properties":[
                         {
                          "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
-                 "id":4,
-                 "properties":[
-                        {
-                         "name":"silent",
                          "type":"bool",
                          "value":true
                         }]

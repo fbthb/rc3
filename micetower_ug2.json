@@ -81,7 +81,7 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"micetower_eg.json#start_ug"
                 }],
@@ -309,7 +309,7 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"micetower_ug.json#s11038"
                 }],
@@ -327,7 +327,7 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"micetower_ug3.json#s30313"
                 }],
@@ -345,7 +345,7 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"micetower_ug3.json#s33713"
                 }],
@@ -363,7 +363,7 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"micetower_ug.json#s13729"
                 }],
@@ -381,7 +381,7 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"micetower_ug.json#s13840"
                 }],
@@ -399,7 +399,7 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"micetower_ug.json#sziel"
                 }],
@@ -417,7 +417,7 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"micetower_ug3.json#s32740"
                 }],
@@ -435,7 +435,7 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"micetower_ug3.json#s33340"
                 }],
@@ -453,7 +453,7 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"micetower_ug3.json#s33903"
                 }],
@@ -471,7 +471,7 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"micetower_ug.json#s11034"
                 }],
@@ -525,15 +525,6 @@
                  "properties":[
                         {
                          "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
-                 "id":4,
-                 "properties":[
-                        {
-                         "name":"silent",
                          "type":"bool",
                          "value":true
                         }]
